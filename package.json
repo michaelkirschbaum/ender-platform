@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/michaelkirschbaum/ender-platform/issues"
   },
-  "homepage": "https://github.com/michaelkirschbaum/ender-platform#readme"
+  "homepage": "https://github.com/michaelkirschbaum/ender-platform#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
